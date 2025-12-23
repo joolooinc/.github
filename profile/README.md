@@ -11,7 +11,7 @@ We are an independent technology development group, focusing on game development
       <a href="#">
         <img src="https://github.com/Im-Kilroy.png?size=100" width="100px;" alt="Rafael Photo"/><br>
         <sub>
-          <a href="https://github.com/Im-Kilroy">Rafael Henrique</a><br>Kilroy
+          <a href="https://github.com/Im-Kilroy">Rafael Henrique</a><br><b>ᴋɪʟʀᴏʏ</b>
         </sub>
       </a>
     </td>
@@ -19,7 +19,7 @@ We are an independent technology development group, focusing on game development
       <a href="#">
         <img src="https://github.com/monkythemonk.png?size=100" width="100px;" alt="Higor Photo"/><br>
         <sub>
-          <a href="https://github.com/monkythemonk">Higor de Melo</a><br>Monky
+          <a href="https://github.com/monkythemonk">Higor de Melo</a><br><b>ᴍᴏɴᴋʏ</b>
         </sub>
       </a>
     </td>
