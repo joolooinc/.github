@@ -17,9 +17,9 @@ We are an independent technology development group, focusing on game development
     </td>
     <td align="center">
       <a href="#">
-        <img src="https://github.com/aliensatemybrain.png?size=100" width="100px;" alt="Higor Photo"/><br>
+        <img src="https://github.com/monkythemonk.png?size=100" width="100px;" alt="Higor Photo"/><br>
         <sub>
-          <a href="https://github.com/aliensatemybrain">Higor de Melo</a>
+          <a href="https://github.com/monkythemonk">Higor "Monky" de Melo</a>
         </sub>
       </a>
     </td>
